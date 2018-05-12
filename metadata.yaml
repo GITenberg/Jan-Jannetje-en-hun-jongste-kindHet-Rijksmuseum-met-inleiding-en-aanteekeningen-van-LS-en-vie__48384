@@ -1,10 +1,14 @@
 _repo: Jan-Jannetje-en-hun-jongste-kindHet-Rijksmuseum-met-inleiding-en-aanteekeningen-van-LS-en-vie__48384
+_version: 0.1.0
 contributor:
   creator:
     editor:
       agent_name: Simons, Leo
       gutenberg_agent_id: '44776'
       url: http://www.gutenberg.org/2009/agents/44776
+covers:
+- cover_type: archival
+  image_path: 48384-h/images/cover.jpg
 creator:
   author:
     agent_name: Potgieter, E. J. (Everhardus Johannes)
@@ -15,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6968
     wikipedia: http://www.dbnl.org/auteurs/auteur.php?id=potg001
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48384#Jan-Jannetje-en-hun-jongste-kindHet-Rijksmuseum-met-inleiding-en-aanteekeningen-van-LS-en-vie_
 gutenberg_issued: '2015-02-28'
 gutenberg_type: Text
 identifiers:
